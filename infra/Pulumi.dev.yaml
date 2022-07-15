@@ -6,4 +6,4 @@ config:
   fargate_container:memory: 512
   fargate_container:replicas: 1
   fargate_container:vpc: vpc-f3cfaa97
-  fargate_container:subnet:-subnet-f599aa91
+  fargate_container:subnet: subnet-f599aa91
